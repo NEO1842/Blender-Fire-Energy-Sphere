@@ -1,4 +1,4 @@
-<h1 align="center">Blender Procedural Fire Energy Sphere</h1>
+<h1 align="center">Blender Fire Energy Sphere</h1>
 
 <p align="center">
 🔥 Create a dynamic, chaotic energy sphere using only shader nodes.
@@ -16,7 +16,7 @@
 
 # Blender-Fire-Energy-Sphere
 
-A procedural energy sphere scene created in Blender using Shader Nodes.
+A energy sphere scene created in Blender using Shader Nodes.
 
 # Overview
 
@@ -28,9 +28,9 @@ The scene can be freely modified and used for learning shader workflows or for c
 
 ## Features
 
-- Procedural shader-based energy setup
-- Customizable colors and density
-- Useful for learning shader workflows and visual experimentation
+- Shader-based energy effect  
+- Customizable colors and density  
+- Useful for learning shader workflows and visual experimentation  
 
 # Software Requirement
 
@@ -90,9 +90,9 @@ This project is licensed under the MIT License.
 
 ## 特徴
 
-- シェーダーノードによるプロシージャルなエネルギー生成
-- 色や密度の調整が可能
-- シェーダーワークフローの学習やビジュアル実験に適しています
+- シェーダーノードによるエネルギー生成  
+- 色や密度の調整が可能  
+- シェーダーワークフローの学習やビジュアル実験に適しています  
 
 # ソフトウェア要件
 
