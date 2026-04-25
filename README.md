@@ -72,7 +72,7 @@ This project is licensed under the MIT License.
 
 <div align="center">
 <a href="https://drive.google.com/file/d/1ZjkiXNOmY0fp1rC4G8ABcqsOgtDKMWmH/view?usp=drive_link">
-<img src="Blender%20Nebula%20Gas%20Cloud/Nebula%20Gas%20Cloud.png" width="600">
+<img src="Blender%20Fire%20Energy%20Sphere/Fire%20Energy%20Sphere.png" width="600">
 </a>
 </div>
 
