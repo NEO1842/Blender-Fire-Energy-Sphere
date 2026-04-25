@@ -46,7 +46,7 @@ Denoising: Enabled
 
 Original Inspiration: Ducky 3D  
 
-Tutorial: https://www.youtube.com/watch?v=rASz8cpm-54&t=203s
+Tutorial: https://www.youtube.com/watch?v=rtPzXrZ23k0&t=192s
 
 Author: [ NEO1842 ]
 
@@ -108,7 +108,7 @@ Blender バージョン3.6 LTS
 
 元のインスピレーション：Ducky 3D  
 
-チュートリアル：https://www.youtube.com/watch?v=rASz8cpm-54&t=203s
+チュートリアル：https://www.youtube.com/watch?v=rtPzXrZ23k0&t=192s
 
 著者: [ NEO1842 ]
 
