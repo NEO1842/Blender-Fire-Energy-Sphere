@@ -1,33 +1,62 @@
----English---
+# --- English ---
 
-This is a Blender scene for creating a Fire Energy Sphere using shader nodes.
+This Blender scene allows you to create a nebula gas cloud using shader nodes.
 
-Rendering settings:
+# 🛠 Rendering Settings
 
-Rendering Engine: Cycles
+Render Engine: Cycles
 
-Sampling Rate: 1024
+Sampling: 256
 
 Denoising: Enabled
 
-Check out the video!
+🎬 Check out the preview video!
 
+https://drive.google.com/file/d/1ZjkiXNOmY0fp1rC4G8ABcqsOgtDKMWmH/view?usp=drive_link
 
+# ⚠ Notes
 
----日本語---
+To achieve the same visual result as the preview, please edit the scene using Nebula Gas Cloud Video.blend.
 
-これは、シェーダーノードを使用してFire Energy Sphereを作成するためのBlenderシーンです。
+# 🎞 Speed Settings (VSE)
 
-レンダリング設定 
+Add a Speed Control effect strip.
 
-レンダリング エンジン: Cycles
+Change Mode from Stretch to Multiply.
 
-サンプリング レート: 1024
+Set the Speed Factor to 0.25.
 
-ノイズ除去: あり。
+Enable Interpolation.
 
-動画をご確認ください！
+Finally, to match the original animation’s colors, apply the modifiers on the strip (A).
 
+---
 
+# --- 日本語 ---
 
-![Preview](Fire%20Energy%20Sphere.png)
+これは、シェーダーノードを使用して星雲ガス雲を作成できるBlenderシーンです。
+
+# 🛠 レンダリング設定
+レンダリングエンジン: Cycles
+サンプリング: 256
+ノイズ除去: 有効
+
+🎬 プレビュー動画もぜひご覧ください！
+
+https://drive.google.com/file/d/1ZjkiXNOmY0fp1rC4G8ABcqsOgtDKMWmH/view?usp=drive_link
+
+# ⚠ 注意
+
+プレビューと同じ見た目にするには、「Nebula Gas Cloud Video.blend」 を編集してください。
+
+# 🎞 スピード設定（VSE）
+
+スピードコントロール（Speed Control）エフェクトを追加してください。
+
+モードを「ストレッチ」から「乗算」に変更してください。
+
+**スピード係数を「0.25」**に設定してください。
+
+補間（Interpolation）にチェックを入れてください。
+
+最後に、元のアニメーションと同じカラーにするには、ストリップ (A) のモディファイアを適用してください。
