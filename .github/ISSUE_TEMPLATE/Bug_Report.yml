@@ -1,0 +1,36 @@
+name: 🐛 Bug Report
+description: Report a bug
+title: "[Bug]: "
+labels: ["bug", "triage"]
+
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: 🐛 Description
+      description: What happened?
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: 🔁 Steps to Reproduce
+      placeholder: |
+        1. Open...
+        2. Do...
+        3. See issue...
+
+  - type: dropdown
+    id: priority
+    attributes:
+      label: 🔥 Priority
+      options:
+        - Triage
+        - Critical
+        - High
+        - Medium
+        - Low
+        - Backlog
+    validations:
+      required: true
