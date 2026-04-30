@@ -1,0 +1,33 @@
+name: ✨ Feature Request
+description: Suggest a feature
+title: "[Feature]: "
+labels: ["enhancement", "triage"]
+
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: 🚀 Idea
+      description: Describe your idea clearly
+    validations:
+      required: true
+
+  - type: textarea
+    id: benefit
+    attributes:
+      label: 🧠 Benefit
+      description: Why is this useful?
+
+  - type: dropdown
+    id: priority
+    attributes:
+      label: 🔥 Priority
+      options:
+        - Triage
+        - Critical
+        - High
+        - Medium
+        - Low
+        - Backlog
+    validations:
+      required: true
